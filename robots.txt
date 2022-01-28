@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://findmyread.com/dist/sitemap.xml
+Sitemap: https://findmyread.com/sitemap.xml
